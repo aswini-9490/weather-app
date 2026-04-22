@@ -2,7 +2,7 @@ import requests
 from tkinter import *
 from tkinter import messagebox
 
-API_KEY = "4dc88a05207039941ba2e1a14cce380d"  # Your actual API key
+API_KEY = "YOUR API KEY"  # Your actual API key
 
 def get_weather():
     print("Button clicked")
